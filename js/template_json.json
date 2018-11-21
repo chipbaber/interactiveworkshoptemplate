@@ -1,0 +1,30 @@
+{ 
+"title":"Add Title",
+"background_color":"#00729E",
+"background_image":"Add Background Image",
+"nav_bg_color":"",
+"nav_font_on_color":"",
+"nav_font_off_color":"",
+
+"workshop_content" : [
+  {
+    "Section": "Add Section",
+    "Title": "Add Title",
+    "SubTitle": "Add SubTitle",
+    "Text": "Add Text",
+    "Image": "",
+    "Link": "",
+    "Video": "",
+    "Poster": ""
+  }, 
+  {
+    "Section": "Intro",
+    "Title": "Add Title",
+    "SubTitle": "Add SubTitle",
+    "Text": "Add Text",
+    "Image": "",
+    "Link": "",
+    "Video": "",
+    "Poster": ""
+  }
+]}
