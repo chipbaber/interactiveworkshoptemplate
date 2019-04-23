@@ -1,7 +1,7 @@
-/* This is the CSS for the MCS Cloud application. 
+/* This is the CSS for the MCS Cloud application.
 *  Post date 10-29-2015
 */
-html { 
+html {
   background-color: #249cb4;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -192,7 +192,7 @@ header{text-align:center;}
 #m_container{
  float:left;
  width:100%;
- 
+
  display: none;
 }
 
@@ -254,7 +254,7 @@ padding:0;
 .action{
 color:#fff;
 padding:5px;
-background:#0093BF; 
+background:#0093BF;
 border-radius: 5px;
 font-size: 15px;
 text-align:center;
@@ -270,7 +270,7 @@ text-decoration:  none  ;
 .action:nth-child(even){
 color:#fff;
 padding:5px;
-background:#0093BF; 
+background:#0093BF;
 border-radius: 5px;
 font-size: 15px;
 margin-left:30px;
@@ -391,7 +391,7 @@ ul#menu li, ul#menu ul.sub-menu li {
 }
 
 #narrowheader{
-display:none;   
+display:none;
 }
 
 
@@ -422,7 +422,7 @@ padding: 5px 20px;
 
 ul#menu li a:hover {
      font-style:italic;
- 
+
 }
 
 /*sub menu hover color*/
@@ -433,12 +433,12 @@ background-color:rgba(255, 255, 255, 1);
 /*Make the parent of sub-menu relative*/
 ul#menu li {
     position: relative;
-    
+
 }
 
 
 .divider{
-border-left: 1px solid rgba(255, 255, 255, 1); 
+border-left: 1px solid rgba(255, 255, 255, 1);
 }
 
 .first_spacer{
@@ -448,14 +448,14 @@ margin-left: 20px;
 
 /*dropdown in titlebar on mouseover*/
 ul#menu li ul.sub-menu {
-    display:none;   
+    display:none;
     position: absolute;
     top: 32px;
     left: 0;
     width:270px;
     color: #000000;
     background-color:rgba(229, 234, 235, .95);
-    
+
 }
 
 ul#menu li:hover ul.sub-menu {
@@ -478,7 +478,7 @@ display:block;
 }
 
 #menu-title h1{
-    
+
     font-size: 14px;
     text-align: center;
     line-height: 0px;
@@ -610,7 +610,7 @@ width:45px
 .l_tray{
  position:relative;
  float:left;
- margin-bottom: 1px; 
+ margin-bottom: 1px;
 }
 
 .l_icon{
@@ -618,7 +618,7 @@ position:relative;
 float:left;
 height:45px;
 width: 45px;
-background-color:#85C18E;
+background-color:#f54908;
 cursor:pointer;
 }
 
@@ -631,7 +631,7 @@ cursor:pointer;
 .l_text{
  position:relative;
  float:left;
- background-color:#85C18E;
+ background-color:#f54908;
  font-weight: bold;
  padding:14px;
  cursor: pointer;
@@ -645,7 +645,7 @@ cursor:pointer;
 #v_tray{
  position:relative;
  float:left;
- margin-bottom: 1px; 
+ margin-bottom: 1px;
 }
 
 #v_icon{
@@ -653,7 +653,7 @@ position:relative;
 float:left;
 height:45px;
 width: 45px;
-background-color:#85C18E;
+background-color:#f54908;
 cursor:pointer;
 }
 
@@ -666,7 +666,7 @@ cursor:pointer;
 #v_text{
  position:relative;
  float:left;
- background-color:#85c18e;
+ background-color:#f54908;
  font-weight: bold;
  padding:14px;
  cursor: pointer;
@@ -689,14 +689,14 @@ position:relative;
 float:left;
 height:45px;
 width: 45px;
-background-color:#85C18E;
+background-color:#f54908;
  cursor:pointer;
 }
 
 #c_text{
  position:relative;
  float:left;
- background-color:#85c18e;
+ background-color:#f54908;
  font-weight: bold;
  padding:14px;
  cursor: pointer;
@@ -709,7 +709,7 @@ background-color:#85C18E;
  width:110px;
 height: 45px;
 text-align:center;
-background-color:#85c18e;
+background-color:#f54908;
  -ms-transform: rotate(-90deg); /* IE 9 */
  -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
  transform: rotate(-90deg);
@@ -849,7 +849,7 @@ z-index:3;
 
 
 ul.wi-container {
-	
+
 }
 
 ul.wi-container li {
@@ -944,7 +944,7 @@ ul.wi-container li.wi-move {
     box-shadow: 0 0 20px #F9C605;
 	margin-top:20px;
 	width: 1280px;
-        height:720px;  
+        height:720px;
          border: 1px solid #000;
 }
 
@@ -1004,7 +1004,7 @@ padding: 5px 18px;
 
 #playvideo {
 	width: 960px;
-        height:540px;        
+        height:540px;
 }
 
 }
@@ -1064,7 +1064,7 @@ ul#menu li a {font-size: 12px;}
 #playvideo {
         margin-top: 150px;
 	width: 640px;
-        height:360px;        
+        height:360px;
 }
 
 }
@@ -1083,7 +1083,7 @@ display:none;
 #playvideo {
         margin-top: 50px;
 	width: 640px;
-        height:360px;        
+        height:360px;
 }
 
 body {
@@ -1095,7 +1095,7 @@ body {
     margin:0px;
 }
 
-a{ 
+a{
  color:rgba(71,88,94,1);
  text-decoration: underline ;
 }
@@ -1149,7 +1149,7 @@ display:none;
 .howto{opacity:0}
 #playvideo {
 	width: 480px;
-        height:270px;        
+        height:270px;
 }
 #m_container figure {
 margin: .6em auto;
@@ -1164,7 +1164,6 @@ border-top:1px solid rgba(255,255,255,.5);
 .howto{opacity:0}
 #playvideo {
 	width: 240px;
-        height:135px;        
+        height:135px;
 }
 }
-
